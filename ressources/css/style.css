@@ -1,0 +1,215 @@
+/* .logo1 {
+    width: 70px;
+    height: inherit;
+} */
+
+.footer2 {
+    background-color: gray;
+    padding: 0.1%;
+}
+.footer2 p {
+    float: center;
+    margin-top: 0.5%;
+    color: white;
+    text-align: center;
+    font-family: italic;
+
+}
+.btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    font-size: 1.2rem;
+    border: 0.1rem solid maroon;
+    background: #f0fdfa;
+    color: black;
+    cursor: pointer;
+    text-transform: capitalize;
+  }
+  
+  .btn:hover {
+    background: maroon;
+    color: #fff;
+  }
+
+  .btn1 {
+    cursor: pointer;
+    text-transform: capitalize;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 15%;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+
+  }
+.card h1{
+    border: none;
+    
+}
+.card-img-overlay {
+    /* color: black; */
+    text-transform: uppercase;
+    
+}
+.footer-contenu ul {
+    list-style: none;
+    
+}
+.actualite {
+    background-color: gray;
+    color: white;
+}
+.actualite h1 {
+  color: #AF061D;
+  padding-top: 10px;
+}
+
+h5 p {
+    text-align: center; 
+    text-transform: uppercase; 
+    margin: 2%;
+    text-align: justify;
+}
+  
+  .navbar-brand {
+    padding: 0;
+    background-color: white;
+  }
+  
+  .logo1 {
+    width: 70px;
+    height: 50px;
+    margin-left: 25%;
+
+  }
+
+.navbar {
+  background-color: white;
+}
+  
+  .navbar-toggler {
+    color: white;
+    border-color: white;
+  }
+  
+  .nav-link {
+    color: #AF061D;
+    font-size: large;
+    
+  }
+  
+  .nav-link:hover {
+    color: #ffc107;
+  }
+  
+  /* Styles pour le carrousel */
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .carousel-caption h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #AF061D;
+    font-family: Arial black;
+  }
+  
+  .carousel-caption p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
+  /* Styles pour les programmes de formation */
+  .card-group {
+    margin-top: 2%;
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .card-img-top {
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #AF061D;
+    text-transform: uppercase;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    text-align: justify;
+  }
+  
+  /* Styles pour la section "A propos" */
+  .card-body {
+    /* color: black; */
+    /* text-align: center; */
+    padding: 2rem;
+  }
+      
+  /* Styles pour la section "Actualité" */
+  .actualite {
+    /* margin-top: 2%; */
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    /* margin-right: auto; */
+  }
+  
+  .actualite{
+    font-size: 1rem;
+    /* text-transform: uppercase; */
+    margin-bottom: 2%;
+  }
+  
+  .actualite p {
+    font-size: 1.2rem;
+    margin-bottom: 2%;
+  }
+    /* section A propos */
+  .apropos {
+    /* padding-left: 5%; */
+    padding: 3%;
+  }
+  .footer-contenu ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .footer-contenu li {
+    margin-bottom: 10px;
+  }
+  
+  .fa-phone,
+  .fa-envelope,
+  .fa-house {
+    margin-right: 10px;
+    color: #AF061D;
+
+  }
+  
+  /* Sélecteurs généraux */
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: black; */
+  }
+      
+  /* Footer */
+  .footer2 {
+    background-color: #6c757d;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+  }
+  
